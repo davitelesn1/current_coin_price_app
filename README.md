@@ -8,23 +8,23 @@
     <img src="assets/demo/demo3.png" alt="Chat App preview" width="300"/>
 </p>
 
-Um **aplicativo de acompanhamento de moedas virtuais**, desenvolvido em **Flutter**, que permite visualizar valores atualizados de criptomoedas em tempo real, utilizando consumo de API externa.
+A **virtual currency transfer application**, developed in **Flutter**, that allows you to view updated cryptocurrency values ​​in real time, using an external API.
 
-Este projeto faz parte da minha evolução no desenvolvimento mobile, com foco em **integração com APIs, organização de código e boas práticas em Flutter**.
-
----
-
-## 📱 Funcionalidades
-
-- 📊 Visualização do preço de criptomoedas em tempo real
-- 🔄 Atualização dinâmica dos valores
-- 💱 Conversão de moedas virtuais para moeda fiduciária
-- 🌐 Consumo de API REST
-- 📱 Interface simples e intuitiva
+This project is part of my evolution in mobile development, focusing on **API integration, code organization, and Flutter best practices**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 📱 Features
+
+- 📊 Real-time cryptocurrency price display
+- 🔄 Dynamic value updates
+- 💱 Virtual currency to fiat currency conversion
+- 🌐 REST API consumption
+- 📱 Simple and intuitive interface
+
+---
+
+## 🛠️ Technologies Used
 
 - **Flutter**
 - **Dart**
@@ -34,13 +34,12 @@ Este projeto faz parte da minha evolução no desenvolvimento mobile, com foco e
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
  
- '''
+ ```
  lib/
 ├── coin_data.dart
 ├── crypto_card.dart
 │── main.dart
 └── price_screen.dart
-
-'''
+```
