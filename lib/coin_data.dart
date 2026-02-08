@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-const apiKey = 'b3f8f5bf-2abf-42d3-8954-320e6ae1c917';
+const apiKey = 'your_api_key';
 
 class CoinData {
   Future getCoinData(String crypto, String selectedCurrency) async {
